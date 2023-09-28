@@ -417,7 +417,7 @@ body{
     position: relative;
     height: 50vh;
     width: 100vw;
-    background-color: black;
+    background-color:  #0c0a0a;
     color: #fff;
     font-family: a;
     padding: 7vw 10vw;
@@ -440,7 +440,7 @@ body{
     position: relative;
     height: 60vh;
     width: 100vw;
-    background-color: #000;
+    background-color: #0c0a0a;
 }
 .page14-inner{
     position: relative;
